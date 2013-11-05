@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>ADDDD973-4492-4DCF-A0E7-6E77028AF4BD</string>
+	<key>IDESourceControlProjectName</key>
+	<string>SDWebImage Demo</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>304AA433-1876-4CCE-991B-80D549CBFF9D</key>
+		<string>http://git.chromium.org/webm/libwebp.git</string>
+		<key>569FCF09-BB41-425C-A384-4E6870467F52</key>
+		<string>https://github.com/rs/SDWebImage.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>Examples/SDWebImage Demo.xcodeproj/project.xcworkspace</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>304AA433-1876-4CCE-991B-80D549CBFF9D</key>
+		<string>../../../Vendors/libwebp</string>
+		<key>569FCF09-BB41-425C-A384-4E6870467F52</key>
+		<string>../../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/rs/SDWebImage.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>110</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>569FCF09-BB41-425C-A384-4E6870467F52</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>304AA433-1876-4CCE-991B-80D549CBFF9D</string>
+			<key>IDESourceControlWCCName</key>
+			<string>libwebp</string>
+		</dict>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>569FCF09-BB41-425C-A384-4E6870467F52</string>
+			<key>IDESourceControlWCCName</key>
+			<string>SDWebImage</string>
+		</dict>
+	</array>
+</dict>
+</plist>
